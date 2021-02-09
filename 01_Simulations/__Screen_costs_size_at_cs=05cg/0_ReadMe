@@ -1,0 +1,5 @@
+Growth_rate.py: calculated the growth rate of a developmental trajectory.
+Growth_rate_at_cg_cs: calculated the growth rates under different parameter spaces.
+Generateing_indepent_growth_rate_files: generate the independent files for easy calculation.
+
+Here the cs=Xcg is included in the file "Growth_rate_cs=Xcg.py", where we set them in the parameter para[4].

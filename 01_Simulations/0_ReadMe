@@ -1,0 +1,6 @@
+In this folder, the X in 0X_code_for_figX is corresponding to the figures in the main text.
+In these folders, we list the simulation code files that generate the data used in each figure.
+
+Please note that in some code files, we may include the ideas that contain the organism size effect
+and the cell death effect. But we get rid of these non-essential factors for our conclusions at the end.
+And our simulation didn't include these two effects, though you may find some extra parameters.
